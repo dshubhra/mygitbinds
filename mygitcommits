@@ -1,0 +1,23 @@
+git clone <repo>
+git branch - current branch
+git status - current status
+git add <file or dir>
+git commit -m "message"
+
+
+git reset HEAD <file>
+
+
+
+git checkout -b newbranch
+git checkout oldbranch
+
+git push origin <branch you want to push>
+git pull origin <branch you want to pull>
+
+
+
+
+
+
+
